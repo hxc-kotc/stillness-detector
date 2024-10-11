@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/stillness-detector/static/css/main.e6c13ad2.css",
+    "main.js": "/stillness-detector/static/js/main.9e59a5dd.js",
+    "static/js/453.6b3cc05e.chunk.js": "/stillness-detector/static/js/453.6b3cc05e.chunk.js",
+    "index.html": "/stillness-detector/index.html",
+    "main.e6c13ad2.css.map": "/stillness-detector/static/css/main.e6c13ad2.css.map",
+    "main.9e59a5dd.js.map": "/stillness-detector/static/js/main.9e59a5dd.js.map",
+    "453.6b3cc05e.chunk.js.map": "/stillness-detector/static/js/453.6b3cc05e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.9e59a5dd.js"
+  ]
+}
